@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/babakjahangiri-module-ii/static/css/main.692d6f24.chunk.css",
-    "main.js": "/babakjahangiri-module-ii/static/js/main.a485233c.chunk.js",
-    "main.js.map": "/babakjahangiri-module-ii/static/js/main.a485233c.chunk.js.map",
+    "main.js": "/babakjahangiri-module-ii/static/js/main.4ace2df4.chunk.js",
+    "main.js.map": "/babakjahangiri-module-ii/static/js/main.4ace2df4.chunk.js.map",
     "runtime-main.js": "/babakjahangiri-module-ii/static/js/runtime-main.bc68e063.js",
     "runtime-main.js.map": "/babakjahangiri-module-ii/static/js/runtime-main.bc68e063.js.map",
     "static/js/2.e2809d28.chunk.js": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js",
     "static/js/2.e2809d28.chunk.js.map": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js.map",
     "index.html": "/babakjahangiri-module-ii/index.html",
-    "precache-manifest.784ca51c426e096939335b8f4d7139c0.js": "/babakjahangiri-module-ii/precache-manifest.784ca51c426e096939335b8f4d7139c0.js",
+    "precache-manifest.cb47a5fa2f328cadf2054034ec61aae2.js": "/babakjahangiri-module-ii/precache-manifest.cb47a5fa2f328cadf2054034ec61aae2.js",
     "service-worker.js": "/babakjahangiri-module-ii/service-worker.js",
     "static/css/main.692d6f24.chunk.css.map": "/babakjahangiri-module-ii/static/css/main.692d6f24.chunk.css.map",
     "static/js/2.e2809d28.chunk.js.LICENSE.txt": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.bc68e063.js",
     "static/js/2.e2809d28.chunk.js",
     "static/css/main.692d6f24.chunk.css",
-    "static/js/main.a485233c.chunk.js"
+    "static/js/main.4ace2df4.chunk.js"
   ]
 }
