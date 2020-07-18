@@ -44,7 +44,12 @@ const ProductDetails = ({ match }) => {
         </div>
         <div className="product-details-container">
           <div className="product-image-container">
-            {<img src={`/images/${productItem[0].image}`} alt="" />}
+            {
+              <img
+                src={`${process.env.PUBLIC_URL}/images/${productItem[0].image}`}
+                alt=""
+              />
+            }
           </div>
           <div className="product-details-info">
             <div className="product-details-top">

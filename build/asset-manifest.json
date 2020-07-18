@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.692d6f24.chunk.css",
-    "main.js": "/static/js/main.dc183cc3.chunk.js",
-    "main.js.map": "/static/js/main.dc183cc3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b3965851.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b3965851.js.map",
-    "static/js/2.e2809d28.chunk.js": "/static/js/2.e2809d28.chunk.js",
-    "static/js/2.e2809d28.chunk.js.map": "/static/js/2.e2809d28.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7998c090fc252527a53d4abd54debfc2.js": "/precache-manifest.7998c090fc252527a53d4abd54debfc2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.692d6f24.chunk.css.map": "/static/css/main.692d6f24.chunk.css.map",
-    "static/js/2.e2809d28.chunk.js.LICENSE.txt": "/static/js/2.e2809d28.chunk.js.LICENSE.txt",
-    "static/media/cart-ico.svg": "/static/media/cart-ico.48aa2bc8.svg",
-    "static/media/header_hero.jpg": "/static/media/header_hero.304f6e9a.jpg",
-    "static/media/mk_watch.jpg": "/static/media/mk_watch.0fe42dc7.jpg",
-    "static/media/remove.svg": "/static/media/remove.37f2ff9b.svg",
-    "static/media/wslogo.svg": "/static/media/wslogo.1641a7e4.svg"
+    "main.css": "/babakjahangiri-module-ii/static/css/main.692d6f24.chunk.css",
+    "main.js": "/babakjahangiri-module-ii/static/js/main.a485233c.chunk.js",
+    "main.js.map": "/babakjahangiri-module-ii/static/js/main.a485233c.chunk.js.map",
+    "runtime-main.js": "/babakjahangiri-module-ii/static/js/runtime-main.bc68e063.js",
+    "runtime-main.js.map": "/babakjahangiri-module-ii/static/js/runtime-main.bc68e063.js.map",
+    "static/js/2.e2809d28.chunk.js": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js",
+    "static/js/2.e2809d28.chunk.js.map": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js.map",
+    "index.html": "/babakjahangiri-module-ii/index.html",
+    "precache-manifest.784ca51c426e096939335b8f4d7139c0.js": "/babakjahangiri-module-ii/precache-manifest.784ca51c426e096939335b8f4d7139c0.js",
+    "service-worker.js": "/babakjahangiri-module-ii/service-worker.js",
+    "static/css/main.692d6f24.chunk.css.map": "/babakjahangiri-module-ii/static/css/main.692d6f24.chunk.css.map",
+    "static/js/2.e2809d28.chunk.js.LICENSE.txt": "/babakjahangiri-module-ii/static/js/2.e2809d28.chunk.js.LICENSE.txt",
+    "static/media/cart-ico.svg": "/babakjahangiri-module-ii/static/media/cart-ico.48aa2bc8.svg",
+    "static/media/header_hero.jpg": "/babakjahangiri-module-ii/static/media/header_hero.304f6e9a.jpg",
+    "static/media/mk_watch.jpg": "/babakjahangiri-module-ii/static/media/mk_watch.0fe42dc7.jpg",
+    "static/media/remove.svg": "/babakjahangiri-module-ii/static/media/remove.37f2ff9b.svg",
+    "static/media/wslogo.svg": "/babakjahangiri-module-ii/static/media/wslogo.1641a7e4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3965851.js",
+    "static/js/runtime-main.bc68e063.js",
     "static/js/2.e2809d28.chunk.js",
     "static/css/main.692d6f24.chunk.css",
-    "static/js/main.dc183cc3.chunk.js"
+    "static/js/main.a485233c.chunk.js"
   ]
 }
