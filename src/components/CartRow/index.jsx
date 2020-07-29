@@ -19,10 +19,12 @@ const CartRow = ({ cartProduct, removeItemHanlder }) => {
   const [productQty, setProductQty] = useState(cartProduct.qty);
 
   function editCartHanler(pid, qty) {
-    setProductQty(qty);
-    updateCartItem(pid, qty);
-    setItemsCount(getItemsCount());
-    setTotalCart(getCartTotal());
+    if (Number(qty) < 100) {
+      setProductQty(qty);
+      updateCartItem(pid, qty);
+      setItemsCount(getItemsCount());
+      setTotalCart(getCartTotal());
+    }
   }
 
   return (

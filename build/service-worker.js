@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/babakjahangiri-module-ii/precache-manifest.1b8cc40c08e55b360fc4a428125be38d.js"
+  "/babakjahangiri-module-ii/precache-manifest.df362865d3b349de70ad3ee2f93b4194.js"
 );
 
 self.addEventListener('message', (event) => {
