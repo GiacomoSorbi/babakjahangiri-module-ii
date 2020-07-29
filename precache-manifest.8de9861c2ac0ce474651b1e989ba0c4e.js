@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e4546a949072c998348de93f24968cc",
+    "revision": "3446bd9a47d13ffdd1e1be1425d82497",
     "url": "/babakjahangiri-module-ii/index.html"
   },
   {
-    "revision": "c8322dad2c3333d3f866",
+    "revision": "074ea6efe9b3ebb85c2c",
     "url": "/babakjahangiri-module-ii/static/css/main.eabe75ce.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/babakjahangiri-module-ii/static/js/2.2092119e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8322dad2c3333d3f866",
-    "url": "/babakjahangiri-module-ii/static/js/main.d5b495d4.chunk.js"
+    "revision": "074ea6efe9b3ebb85c2c",
+    "url": "/babakjahangiri-module-ii/static/js/main.718ebadf.chunk.js"
   },
   {
     "revision": "3e5d3676495930bc3304",
