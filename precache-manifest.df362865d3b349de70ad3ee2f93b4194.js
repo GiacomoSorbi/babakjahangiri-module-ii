@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9181398ce345aa3dc19674a4e23e2668",
+    "revision": "4e4546a949072c998348de93f24968cc",
     "url": "/babakjahangiri-module-ii/index.html"
   },
   {
-    "revision": "f5cf1511535026104c8f",
-    "url": "/babakjahangiri-module-ii/static/css/main.8c257b80.chunk.css"
+    "revision": "c8322dad2c3333d3f866",
+    "url": "/babakjahangiri-module-ii/static/css/main.eabe75ce.chunk.css"
   },
   {
-    "revision": "099da1881307cd329a07",
-    "url": "/babakjahangiri-module-ii/static/js/2.ec17cfb8.chunk.js"
+    "revision": "70f7160a3d9f3f20c180",
+    "url": "/babakjahangiri-module-ii/static/js/2.2092119e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/babakjahangiri-module-ii/static/js/2.ec17cfb8.chunk.js.LICENSE.txt"
+    "url": "/babakjahangiri-module-ii/static/js/2.2092119e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5cf1511535026104c8f",
-    "url": "/babakjahangiri-module-ii/static/js/main.7bdeb3b6.chunk.js"
+    "revision": "c8322dad2c3333d3f866",
+    "url": "/babakjahangiri-module-ii/static/js/main.d5b495d4.chunk.js"
   },
   {
     "revision": "3e5d3676495930bc3304",
